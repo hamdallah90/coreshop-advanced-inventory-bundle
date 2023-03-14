@@ -25,7 +25,7 @@
   },
   "require": {
     "php": "^8.1",
-    "coreshop/inventory-bundle": "^2.0"
+    "coreshop/inventory-bundle": "^3.0"
   },
   "extra": {
     "branch-alias": {
