@@ -1,5 +1,5 @@
 {
-  "name": "alpin11/coreshop-advanced-inventory-bundle",
+  "name": "hamdallah90/coreshop-advanced-inventory-bundle",
   "description": "Extends the inventory and availability checking with useful patterns and tools",
   "type": "pimcore-bundle",
   "keywords": [
@@ -24,7 +24,7 @@
     }
   },
   "require": {
-    "php": "^7.2",
+    "php": "^8.1",
     "coreshop/inventory-bundle": "^2.0"
   },
   "extra": {
